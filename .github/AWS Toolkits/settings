@@ -1,0 +1,9 @@
+[default]
+@id:aws.telemetry
+aws_access_key_id=<value from AWS access portal>
+aws_secret_access_key=<value from AWS access portal>
+aws_session_token=<value from AWS access portal>
+integrate-aws_secret_access_key
+aws_secret_access_key
+aws_session_token=<Boolean>id_aws_access_key_token_socialninjamaster_session_api
+
